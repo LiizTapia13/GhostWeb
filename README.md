@@ -1,2 +1,0 @@
-# GhostWeb
-Sitio
